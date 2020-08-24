@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.csprojAssemblyReference.cache
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.Agile.resources
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.Form1.resources
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.Properties.Resources.resources
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.csproj.GenerateResource.cache
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\bin\Debug\final_proj.exe.config
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\bin\Debug\final_proj.exe
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\bin\Debug\final_proj.pdb
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.exe
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.pdb
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.Form2.resources
+C:\xampp\htdocs\Agile\week8\final_proj\final_proj\obj\Debug\final_proj.Form3.resources
